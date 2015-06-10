@@ -19,12 +19,18 @@ body {
 	margin: 0 auto;
 	color: white;
 	text-align: center;
-	font-family: courier, monospace;
-	font-size: 100px;
+	font-family: HelveticaNeue-Thin, sans-serif;
+	font-size: 140px;
 }
 
 footer {
 	position: absolute;
 	bottom: 0;
 	right: 30px;
+}
+
+footer p {
+	font-family: HelveticaNeue-Thin, sans-serif;
+	font-size: 28px;
+	color: white;
 }
